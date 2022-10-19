@@ -1,0 +1,22 @@
+header {
+    background-color: #80c257;
+    position: fixed;
+    width: 100vw;
+    height: 100px;
+  }
+  
+  .headerWrap {
+    margin: 28px 200px;
+    display: flex;
+  }
+  
+  h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 8px 0;
+  }
+  
+  .headerWrap form {
+    margin: auto;
+  }

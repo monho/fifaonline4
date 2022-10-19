@@ -1,0 +1,63 @@
+.Userinfo{
+    margin: 0 auto;
+    padding-top: 170px;
+    max-width: 1520px;
+}
+
+.info-leftarea{
+    width:400px;
+    float: left;
+    height:auto;
+}
+.user-data{
+    width: 100%;
+    background-color: #F2F2F2;
+    height:175px;
+}
+
+.userprefix{
+    color:#80C257;
+    padding:10px 22px;
+    font-weight: bold;
+    font-size:18px
+}
+
+.usersuffix{
+    margin: 0px;
+    color:#535353;
+    font-size: 18px;
+    font-weight: 600;
+}
+.suffix-coltrols{
+    color:#535353;
+    padding: 5px 22px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.matchprefix{
+    color:#80C257;
+    padding:25px 22px;
+    font-weight: bold;
+    font-size:18px
+}
+.matchsuffix{
+    margin: 0px;
+    color:#535353;
+    font-size: 18px;
+    font-weight: 600;
+}
+.match-data{
+    margin-top: 20px;
+    width: 100%;
+    background-color: #F2F2F2;
+    height:305px;
+}
+.bar{
+    margin:5px;
+    width:380px;
+    border-bottom:1px solid #d4d4d4;
+}
+.title{
+    padding: 6px 15px;
+    font-weight: bold;
+}

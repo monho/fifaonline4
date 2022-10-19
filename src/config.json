@@ -1,0 +1,10 @@
+{
+    "BASE_URL": "https://api.nexon.co.kr/",
+    "HEADER": {
+      "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJYLUFwcC1SYXRlLUxpbWl0IjoiNTAwOjEwIiwiYWNjb3VudF9pZCI6IjYwNDYyOTUwMiIsImF1dGhfaWQiOiIyIiwiZXhwIjoxNjgxNjMyMTk0LCJpYXQiOjE2NjYwODAxOTQsIm5iZiI6MTY2NjA4MDE5NCwic2VydmljZV9pZCI6IjQzMDAxMTQ4MSIsInRva2VuX3R5cGUiOiJBY2Nlc3NUb2tlbiJ9.7sTwl4a6iX2JVO5T0oOuSNz1Q5qQZMKUGcrdmC3v-PA"
+    }
+  }
+
+
+
+  

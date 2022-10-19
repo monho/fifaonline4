@@ -1,0 +1,27 @@
+.SearchFrom {
+    background-color: white;
+    width: 535px;
+    height: 45px;
+    border-radius: 5px;
+  }
+  
+  .search {
+    border: 0;
+    outline: none;
+    height: 100%;
+    width: 90%;
+    padding: 0;
+    padding-left: 13px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .search::placeholder {
+    font-size: 14px;
+  }
+  
+  .search-img {
+    width: 4%;
+    position: relative;
+    top: 5px;
+  }
